@@ -15,7 +15,7 @@ npm install webmcp-polyfill
 ## Usage
 
 ```ts
-import { initPolyfill, createModelContextClient } from "webmcp-polyfill";
+import { initPolyfill, createModelContextClient } from "@adipetcu/webmcp-polyfill";
 
 // Initialize the polyfill early (e.g., in your app entry point)
 // Safe to call multiple times; subsequent calls are no-ops
