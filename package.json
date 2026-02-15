@@ -1,5 +1,5 @@
 {
-  "name": "@apetcu/webmcp-polyfill",
+  "name": "@adipetcu/webmcp-polyfill",
   "version": "0.1.0",
   "description": "Lightweight W3C WebMCP (navigator.modelContext) polyfill for making websites AI-agent-friendly",
   "type": "module",
