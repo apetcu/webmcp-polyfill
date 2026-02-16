@@ -1,4 +1,4 @@
-# webmcp-polyfill
+# @adipetcu/webmcp-polyfill
 
 Lightweight W3C WebMCP (`navigator.modelContext`) polyfill for making websites AI-agent-friendly.
 
@@ -9,7 +9,7 @@ WebMCP (Model Context Protocol for the Web) is a proposed standard that allows w
 ## Installation
 
 ```bash
-npm install webmcp-polyfill
+npm install @adipetcu/webmcp-polyfill
 ```
 
 ## Usage

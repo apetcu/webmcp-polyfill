@@ -1,7 +1,8 @@
 {
   "name": "@adipetcu/webmcp-polyfill",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Lightweight W3C WebMCP (navigator.modelContext) polyfill for making websites AI-agent-friendly",
+  "homepage": "https://github.com/apetcu/webmcp-polyfill",
   "publishConfig": {
     "access": "public"
   },
