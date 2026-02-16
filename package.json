@@ -3,6 +3,13 @@
   "version": "0.1.2",
   "description": "Lightweight W3C WebMCP (navigator.modelContext) polyfill for making websites AI-agent-friendly",
   "homepage": "https://github.com/apetcu/webmcp-polyfill",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apetcu/webmcp-polyfill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apetcu/webmcp-polyfill/issues"
+  },
   "publishConfig": {
     "access": "public"
   },
